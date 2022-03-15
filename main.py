@@ -10,3 +10,7 @@ def mult(x,y):
     return x*y
 
 #dfd
+
+# Dommuy Function
+def hamda():
+    pass
